@@ -46,4 +46,8 @@ void main()
 /* run code command below
 step 1 : gcc error_correction.c -o test
 step 2 : ./test
+
+enter the message bits one by one : 1101
+enter the received data bits one by one : 1101110
+
 */
