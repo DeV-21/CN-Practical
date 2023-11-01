@@ -33,4 +33,8 @@ void main()
 /* run code command below
 step 1 : gcc error_detection.c -o test
 step 2 : ./test
+enter the mesage bit one by one : 1101
+
+enter the received data bits one by one : 1100110
 */
+
